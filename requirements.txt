@@ -1,1 +1,1 @@
-python-3.11.8
+aiogram==2.25.1
